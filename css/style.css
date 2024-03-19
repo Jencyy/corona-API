@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    padding: 40px 20px;
+    margin-top: 50px;
+    max-width: 800px;
+}
+
+h1 {
+    color:  lightcoral;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.table thead th {
+    background-color: lightcoral;
+    color: #ffffff;
+    border-color: lightcoral;
+}
+
+#summary {
+    background-color: #f8f9fa;
+    border: 2px solid  lightcoral;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+#summary span {
+    font-weight: bold;
+    color:  lightcoral;
+}
